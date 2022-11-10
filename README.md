@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Héloïse
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Computer Science at Enseeiht engineer School
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeloiseLafargue&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HeloiseLafargue/HeloiseLafargue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
