@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I am Héloïse
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Computer Science at Enseeiht engineer School
+- 🌱 I’m currently studying Computer Science at Enseeiht engineer School
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeloiseLafargue&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
