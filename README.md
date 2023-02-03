@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am Héloïse
+I am Héloïse!
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently studying Computer Science at Enseeiht engineer School
 
